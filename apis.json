@@ -1,0 +1,61 @@
+{
+    "name": "Forte Group",
+    "description": "We are your partner in tailored business software development: e-commerce, web and mobile applications, comprehensive solutions for startups and SMB.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/forte-group.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/forte-group\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Forte Group",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/forte-group.png",
+            "humanURL": "http:\/\/www.4tegroup.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/forte-group-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/forte-group-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/4teGroup"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/forte-group\/timeline"
+        },
+        {
+            "type": "Email",
+            "url": "info@4tegroup.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@fortegrp.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ForteGrp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.4tegroup.com"
+        }
+    ]
+}
